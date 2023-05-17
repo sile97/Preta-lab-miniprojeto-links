@@ -1,0 +1,58 @@
+* {
+    background-color: #00c395;
+    margin: 0 auto;
+    font-family: 'Orbitron', 'Zeyada';
+  }
+  
+  .minibio {
+    margin-top: 60px;
+    text-align:center;
+    color: #000000;
+  }
+  .foto {
+    width: 300px;
+    height: auto;
+    margin: 0px 10px 10px 0;
+    border-radius: 50%;
+    align-items: center;
+  }
+  
+  .minibio h1 {
+    width: 280px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    text-align:center;
+    font-size: 30px;
+    font-weight: 500;
+    color:#002e0fb7;
+  }
+  
+  .minibio p {
+    width: 220px;
+    margin-bottom: 50px;
+    font-size: 27px;
+    font-weight: 100;
+    font-family: 'Zeyada';
+    color:#013111cc;
+  }
+  .redes-sociais {
+    width: 300px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .botao {
+    color: #d1eabdec;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 16px 45px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #117f3b;
+    width: 300px;
+    margin: 10px;
+    font-size: 15px;
+    border-color: rgb(172, 193, 193);
+  }
